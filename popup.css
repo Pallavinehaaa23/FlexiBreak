@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  width: 20pc;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#stretchSection {
+  margin-top: 20px;
+}
+
+#stretchList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#stretchList li {
+  margin-bottom: 10px;
+}
